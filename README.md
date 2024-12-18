@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sardarqaslany97@gmail.com**
 
-- 📄 Know about my experiences [www.sardarqaslany.com](www.sardarqaslany.com)
+- 📄 Know about my experiences [sardarqaslany.com]([www.](https://)sardarqaslany.com)
 
 - ⚡ Fun fact **I think I am funny**
 
