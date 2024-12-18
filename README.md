@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **in building cool developer communities**
 
-- 👨‍💻 All of my projects are available at [sardarqaslany.com](https://www.sardarqaslany.com)
+- 👨‍💻 All of my projects are available at [sardarqaslany.com](https://sardarqaslany.com)
 
-- 📝 I regularly write articles on [www.sardarqaslany.com](www.sardarqaslany.com)
+- 📝 I regularly write articles on [sardarqaslany.com](https://sardarqaslany.com)
 
 - 💬 Ask me about **C# , Blazor , Maui , Api**
 
