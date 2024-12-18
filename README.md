@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **in building cool developer communities**
 
-- 👨‍💻 All of my projects are available at [www.sardarqaslany.com](www.sardarqaslany.com)
+- 👨‍💻 All of my projects are available at [sardarqaslany.com](https://www.sardarqaslany.com)
 
 - 📝 I regularly write articles on [www.sardarqaslany.com](www.sardarqaslany.com)
 
