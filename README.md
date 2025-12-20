@@ -41,7 +41,7 @@
     <a href="https://github.com/sardar97" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-sardar97-0b1220?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220&color=a78bfa" alt="GitHub"/>
     </a>
-    <a href="mailto:contact@sardarqaslany.co.uk" target="_blank">
+    <a href="mailto:sardarqaslany97@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-contact%40sardarqaslany.co.uk-0b1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220&color=22c55e" alt="Email"/>
     </a>
   </p>
@@ -172,7 +172,7 @@ I focus on building **scalable .NET systems** with **Clean Architecture**, with 
 <a href="https://www.linkedin.com/in/sardar97" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220&color=3b82f6" alt="LinkedIn"/>
 </a>
-<a href="mailto:contact@sardarqaslany.co.uk" target="_blank">
+<a href="mailto:sardarqaslany97@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-contact%40sardarqaslany.co.uk-0b1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220&color=22c55e" alt="Email"/>
 </a>
 
