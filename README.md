@@ -88,6 +88,6 @@ point-of-sale systems used by UK shops, real-time dashboards, and open-source Bl
 ![Open to opportunities](https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge)
 ![Open to freelance](https://img.shields.io/badge/Open%20to-Freelance-60a5fa?style=for-the-badge)
 
-📍 Burnley, UK
+📍 United Kingdom
 
 </div>
